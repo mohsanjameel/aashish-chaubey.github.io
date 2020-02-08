@@ -1,4 +1,4 @@
-![Aashish Chaubey](pic.JPG)
+![Aashish Chaubey](images/pic.jpg)
 
 # **Aashish Chaubey**
 
@@ -30,10 +30,10 @@ https://medium.com/matic-network/matic-network-at-dorahacks-india-114626181e4) b
 [![alt text][4.1]][4]&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
-[1.1]: github.JPG (GitHub)
-[2.1]: linkedin.JPG (LinkedIn)
-[3.1]: twitter.JPG (Twitter)
-[4.1]: medium.JPG (Medium)
+[1.1]: images/github.png (GitHub)
+[2.1]: images/linkedin.png (LinkedIn)
+[3.1]: images/twitter.png (Twitter)
+[4.1]: images/medium.png (Medium)
 
 [1]: https://github.com/aashish-chaubey
 [2]: https://www.linkedin.com/in/chaubey-aashish/
