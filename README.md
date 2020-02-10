@@ -24,16 +24,16 @@ https://medium.com/matic-network/matic-network-at-dorahacks-india-114626181e4) b
 
 ## __Stay Connected__
 
-[![alt text][1.1]][1]&nbsp;&nbsp;&nbsp;&nbsp;
-[![alt text][2.1]][2]&nbsp;&nbsp;&nbsp;&nbsp; 
-[![alt text][3.1]][3]&nbsp;&nbsp;&nbsp;&nbsp; 
-[![alt text][4.1]][4]&nbsp;&nbsp;&nbsp;&nbsp; 
+[![GitHub][1.1]][1]&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn][2.1]][2]&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Twitter][3.1]][3]&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Medium][4.1]][4]&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
-[1.1]: images/github.png (GitHub)
-[2.1]: images/linkedin.png (LinkedIn)
-[3.1]: images/twitter.png (Twitter)
-[4.1]: images/medium.png (Medium)
+[1.1]: https://i.imgur.com/w8c8qXL.png (GitHub)
+[2.1]: https://i.imgur.com/I9UnWOr.png (LinkedIn)
+[3.1]: https://i.imgur.com/Zj9XUar.png (Twitter)
+[4.1]: https://i.imgur.com/9GIHCWv.png (Medium)
 
 [1]: https://github.com/aashish-chaubey
 [2]: https://www.linkedin.com/in/chaubey-aashish/
