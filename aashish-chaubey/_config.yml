@@ -1,0 +1,35 @@
+title: Aashish Chaubey
+description: > # this means to ignore newlines until "baseurl:"
+  Personal portfolio app of a data scientist/data engineer
+permalink: ':title/'
+baseurl: "/blogs" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Aashish Chaubey # add your name
+author-img: aashish.jpg # add your photo
+about-author: I am a junior Data Scientist passionate about data. I love linux more than anything! Currently I am looking for someone who can collaborate with me on a ML based research project! # add description
+social-twitter: AashishLChaubey # add your Twitter handle
+social-facebook: chaubey.aashish # add your Facebook handle
+social-github: aashish-chaubey # add your Github handle
+social-linkedin: chaubey-aashish # add your Linkedin handle
+social-email: chaubey.aashish@gmail.com # add your Email address
+
+# Disqus
+discus-identifier: aashishchaubey # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
