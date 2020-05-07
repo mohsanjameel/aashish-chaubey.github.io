@@ -19,8 +19,12 @@ __Intern__: Software Developer, IBM ISL `Jan 2018 - June 2018`
 
 ## __About Me__
 
-`Passionate Coder!` Having apt skills of a `Full Stack Developer`, I'm also very much interested in the other technologies as well. Currently I work `Data Science Technologies` as it continues to mesmerize me and I am on the learning paths of it. I like to explore some new cool stuff in my free time so I visit a lot of tech talks and hackathons. I have also contributed on [Ethereum](
-https://medium.com/matic-network/matic-network-at-dorahacks-india-114626181e4) based projects for a brief time.
+I am a really `Passionate Developer!` and I 🤎 Linux systems. I have apt skills of a `Full Stack Developer`, but I'm equally participate and contribute to other technologies, like BlochChain and cryptography, as well. Currently I work as a `Data Science` as it continues to mesmerize me the most and helps me express my better, use all my analytical skills.  
+I like to write code in my free time and my favorite weekend past time is participating in hackathons.
+
+## __Featured In__
+
+- Matics Special Prize for implementing an Idea : [DoraHacks](https://medium.com/matic-network/matic-network-at-dorahacks-india-114626181e4)
 
 ## __Stay Connected__
 
